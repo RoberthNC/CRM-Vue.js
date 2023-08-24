@@ -7,16 +7,8 @@
       "telefono": "989-447-236",
       "empresa": "BIMARQ3D",
       "puesto": "FrontEnd Developer",
+      "estado": true,
       "id": 1
-    },
-    {
-      "nombre": "Edgar",
-      "apellido": "Castillo",
-      "email": "edgar.alexis.castillo.17@hotmail.com",
-      "telefono": "949-915-745",
-      "empresa": "UNT",
-      "puesto": "Soporte",
-      "id": 2
     }
   ]
 }
